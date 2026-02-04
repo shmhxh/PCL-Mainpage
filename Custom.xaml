@@ -175,4 +175,13 @@
                EventData="https://mfn233.github.io/PCL-Mainpage/redirect/index.html"
                Type="Clickable" />
      </StackPanel>
+    ext="复制服务器指纹" 
+            Width="200" 
+            Height="40" 
+            Margin="0,12,0,0"
+            EventType="复制文本"
+            EventData="0b83aa0bd6f84eada1f1c16514e84b8d2350fde13b2d1e204ddfc0ad3b199784"/>
+    </StackPanel>
 </local:MyCard>
+</local:MyCard>
+
